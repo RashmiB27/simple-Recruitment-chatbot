@@ -1,0 +1,62 @@
+
+-------------
+name : rashmi b
+role : data analyst
+salary : 5 - 8
+company : google
+------------
+-------------
+name : om b
+role : software enginner
+salary : 3 - 8
+company : apple
+------------
+-------------
+name : rashmi b
+city : shirpur
+role : marketing manager
+salary : 3 - 8
+company : apple
+------------
+-------------
+name : gh hj
+city : wd
+role : entc enginner
+salary : 3 - 8
+company : apple
+------------
+-------------
+name : rash ,o
+city : as
+role : marketing manager
+salary : 3 - 8
+company : apple
+------------
+-------------
+name : g gf
+city : w
+role : entc enginner
+salary : 3 - 8
+company : apple
+------------
+-------------
+name : mara josef
+city : london
+role : software enginner
+salary : 8 - 14
+company : dell
+------------
+-------------
+name : m luther
+city : newyork
+role : data analyst
+salary : 3 - 8
+company : apple
+------------
+-------------
+name : pearl s
+city : 
+role : project manager
+salary : 8 - 14
+company : dell
+------------
